@@ -26,7 +26,3 @@ The goal of this project is to enable better operational and strategic decisions
 - Discounting exhibits diminishing returns, meaning there is an optimal promotional range beyond which additional discounts do not significantly increase demand.
 - Inventory levels must be dynamically aligned with short-term forecasts to avoid inefficiencies such as stockouts or overstock situations.
 - Historical demand (lag features) is the strongest predictor of future sales behavior.
-
----
-
-## 🏗️ Model Architecture
