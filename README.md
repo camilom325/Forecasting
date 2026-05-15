@@ -1,5 +1,7 @@
 # Retail Demand Forecasting with XGBoost & Streamlit
 
+## [Project URL](https://forecasting-in-retail.onrender.com/)
+
 ## Project Overview
 
 This project is an end-to-end **retail demand forecasting system** designed to predict product-level sales across multiple stores using machine learning. The solution combines feature engineering, time-series-aware modeling, and an interactive Streamlit dashboard to support data-driven decision-making in pricing, inventory management, and demand planning.
